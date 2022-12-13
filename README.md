@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julius-777
-- 👀 I’m interested in Markets, Blockchain, Data science
-- 🌱 I’m currently learning Python, Flask, Data Science
+- 👀 I’m interested in Backend Developement(Python), Blockchain, Data Science
+- 🌱 I’m currently learning Django, Microservices, REST API's, 
 - 📫 How to reach me linkedin.com/in/juliusmiyumo/
 
 <!---
