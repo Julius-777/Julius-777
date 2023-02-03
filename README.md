@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julius-777
-- 👀 I’m interested in Backend Developement(Python), Quantitative Finance & Data Science
+- 👀 I’m interested in Quantitative Finance, Algorithmic Trading & Socccer
 - 🌱 I’m currently learning Django, Microservices, Python for Finance. 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/juliusmiyumo/) 
 
