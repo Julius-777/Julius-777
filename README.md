@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julius
+- 👋 Hi, how's it going?
 - 👀 I’m interested in Quantitative Finance, Algorithmic Trading & Socccer
 - 🌱 I’m currently learning Django, Microservices, Python for Finance. 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/juliusmiyumo/) 
