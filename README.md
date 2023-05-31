@@ -1,6 +1,6 @@
 - 👋 Hi, how's it going?
 - 👀 I’m interested in Quantitative Finance, Algorithmic Trading & Soccer
-- 🌱 I’m currently learning Django, Microservices, Python for Finance. 
+- 🌱 I’m currently interested in Scientific Computing, Microservices, Python for Finance. 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/juliusmiyumo/) 
 
 <!---
